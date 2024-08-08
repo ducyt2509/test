@@ -1,1 +1,2 @@
 bean add 2
+bean change 2

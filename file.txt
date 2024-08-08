@@ -1,1 +1,2 @@
 bean 1
+bean change 1
